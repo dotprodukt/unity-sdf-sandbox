@@ -1,0 +1,6 @@
+[submodule "com.dotprodukt.unity-fldkt"]
+	path = com.dotprodukt.unity-fldkt
+	url = https://github.com/dotprodukt/unity-fldkt.git
+[submodule "com.dotprodukt.unity-frktl"]
+	path = com.dotprodukt.unity-frktl
+	url = https://github.com/dotprodukt/unity-frktl
