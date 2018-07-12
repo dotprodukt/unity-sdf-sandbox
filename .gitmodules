@@ -4,3 +4,6 @@
 [submodule "com.dotprodukt.unity-frktl"]
 	path = Packages/com.dotprodukt.unity-frktl
 	url = https://github.com/dotprodukt/unity-frktl
+[submodule "Packages/com.unity.osc"]
+	path = Packages/com.unity.osc
+	url = https://github.com/dotprodukt/UnityOSC.git
