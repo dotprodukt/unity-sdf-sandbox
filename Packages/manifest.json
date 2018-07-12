@@ -2,6 +2,7 @@
   "dependencies": {
     "com.dotprodukt.unity-fldkt": "file:./com.dotprodukt.unity-fldkt",
     "com.dotprodukt.unity-frktl": "file:./com.dotprodukt.unity-frktl",
+    "com.unity.osc": "file:./com.unity.osc",
     "com.unity.package-manager-ui": "1.9.11",
     "com.unity.render-pipelines.high-definition": "2.0.5-preview",
     "com.unity.textmeshpro": "1.2.4",
